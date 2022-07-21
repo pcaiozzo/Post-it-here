@@ -32,7 +32,7 @@ Paige Caiozzo
 
 
 ## Heroku
-Click here to open deployed app: [Post It Here]( https://tech-blog33.herokuapp.com/)
+Click here to open deployed app: [Post It Here]( https://post-it22.herokuapp.com/)
 
 ## License
   [![badge](https://img.shields.io/badge/license-mit-blue)](http://choosealicense.com/licenses/mit/)
